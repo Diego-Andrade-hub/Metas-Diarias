@@ -1,0 +1,14 @@
+1. Descrição Curta (Até 80 caracteres)Esta é a frase que aparece logo de cara na página da Play Store.Opção A: Organize suas dívidas, controle contas e bata suas metas diárias com facilidade.
+Opção B: Transforme suas dívidas em metas diárias e assuma o controle das suas finanças.   
+
+2. Descrição Completa (Para a página do app)Transforme o controle das suas finanças em metas diárias fáceis de alcançar!   Cansado de se sentir sufocado pelo valor total das suas contas e dívidas no fim do mês? O nosso aplicativo foi desenhado para simplificar a sua vida financeira, dividindo o peso das suas obrigações em pequenas metas diárias práticas e alcançáveis.   Seja para planejar o pagamento do seu carro, cartão de crédito ou outras contas parceladas, o app faz as contas por você e mostra exatamente quanto você precisa separar por dia para manter tudo em dia.   
+
+🌟 Principais Funcionalidades:
+📅 Metas Diárias Automáticas: O aplicativo calcula o valor exato que você precisa guardar ou faturar por dia para dar conta dos vencimentos do mês.   
+💳 Gestão Completa de Dívidas e Contas: Adicione contas únicas ou parceladas (como cartões, financiamentos e empréstimos) com facilidade, informando o valor e o dia do vencimento.   
+📊 Visão Gráfica e Planilha Circular: Acompanhe a distribuição proporcional das suas dívidas através de gráficos intuitivos para entender exatamente para onde vai o seu dinheiro.   
+🔔 Alertas de Vencimento: Nunca mais perca uma data importante com avisos visuais claros de contas que vencem no dia.   
+🗓️ Calendário e Histórico Diário: Marque suas metas diárias como cumpridas e acompanhe o seu progresso dia após dia ao longo do mês.  
+
+
+🎯 Para quem é este aplicativo?Para qualquer pessoa — seja autônomo, motorista de aplicativo ou trabalhador CLT — que deseja sair do sufoco financeiro, visualizar despesas de forma clara e transformar grandes dívidas em metas diárias simples de vencer.   Baixe agora e comece a transformar o seu planejamento financeiro hoje mesmo!   
